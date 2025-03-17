@@ -1,0 +1,3 @@
+Hello
+I am sample.txt
+i-to insert , esc-to write exit command , :wq - to exit the text window.
