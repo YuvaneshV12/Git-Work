@@ -1,0 +1,2 @@
+clone.txt file
+Hello
